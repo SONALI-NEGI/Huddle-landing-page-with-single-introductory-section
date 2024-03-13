@@ -19,8 +19,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Huddle landing page | Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [Huddle landing page | Frontend Mentor](https://your-live-site-url.com)
+- Solution URL: [Huddle landing page | Frontend Mentor](https://www.frontendmentor.io/solutions/huddle-landing-page-with-single-introductory-section-8FAwdGN6gg)
+- Live Site URL: [Huddle landing page | Frontend Mentor](https://sonali-negi.github.io/Huddle-landing-page-with-single-introductory-section/)
 
 ## My process
 
@@ -31,6 +31,7 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
+- BEM Notation
 
 
 ## Author
