@@ -36,6 +36,6 @@ Users should be able to:
 
 ## Author
 
-- LinkedIn - [Sonali Negi](https://www.your-site.com)
-- Frontend Mentor - [@Sonali-Negi](https://www.frontendmentor.io/profile/yourusername)
+- LinkedIn - [Sonali Negi](https://www.linkedin.com/in/negisonali/)
+- Frontend Mentor - [@Sonali-Negi](https://www.frontendmentor.io/profile/SONALI-NEGI)
 
